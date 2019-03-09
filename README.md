@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/cesararredondo/contosoCard/_apis/build/status/DiabloDaniel.ContosoAir?branchName=master)](https://dev.azure.com/cesararredondo/contosoCard/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
